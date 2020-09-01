@@ -1,8 +1,8 @@
 ## Welcome to Making in Barcelona
 
-Wow. My own website! Several months ago (and several times) a co-worker of mine asked if I wanted to make my own website and I said 'no.' Well, here I am, a Barcelona Maker Champion for Pop Machina Academy with my very own website. Now what? I guess I need to better understand how this template works and then go from there.
+Wow. My own website! Several months ago (and several times) a co-worker of mine asked if I wanted to make my own website and I said 'no.' Well, here I am: I figured while I'm helping with Pop Machina Academy, I may as well learn what our trainees are. Now what? I guess I need to better understand how this template works and then go from there.
 
-#In the meantime...
+# In the meantime...
 Let me tell you about myself. I am from the United States and graduated university with a dual masters in Biology and Hispanic Studies. In 2016, I moved to Spain and began teaching English in La Rioja. Soon after, I moved to Barcelona to do the same and I haven't looked back. In 2018, I completed my masters in Interdisciplinary Studies in Social, Environmental and Economic Sustainability at the UAB, where I focused on creating a tool to assess the use of therapeutic gardens on rooftops for the elderly. In July 2019, I began working at Fab Lab Barcelona.
 
 You can use the [editor on GitHub](https://github.com/sallybourdon/Making-in-BCN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
